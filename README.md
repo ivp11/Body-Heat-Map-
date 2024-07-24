@@ -8,4 +8,8 @@ It includes an interactive widget and can be customized to add different body lo
 
 The interactive widget can be deleted or grayed out and will not affect the rest of the code. 
 
+Here you will find the code, the silhoutte I used, and a finished product example. 
+
+If you use a different silhoutte you will need to redefine the locations of the body parts. 
+
 I am open to any suggestions to making this better, I am still new to this!
